@@ -21,7 +21,8 @@ BRIDGE-LAB brings together researchers, professionals, and students working at t
 
 - Human-centered Software Engineering  
 - Corporate Training and Computing Education  
-- Responsible Artificial Intelligence  
+- Responsible Artificial Intelligence
+- AI use in Software Engineering
 - Accessibility and Inclusion for Neurodivergent Individuals  
 
 Our mission is to generate practical, evidence-based insights that empower developers, educators, and organizations to build better tools, teams, and technologies.
