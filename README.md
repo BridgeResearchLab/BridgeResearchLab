@@ -48,7 +48,7 @@ Our mission is to generate practical, evidence-based insights that empower devel
       <strong>Antonio Oliveira</strong> – <em>PhD Researcher</em>  
       [<a href="https://linkedin.com/in/aaspo">LinkedIn</a>]<br>
       QA Engineer at Software Mind, working with global stakeholders to implement validation strategies within agile environments.  
-      PhD candidate at CESAR School researching data-driven strategies to evaluate and improve the effectiveness of corporate computing training. His research focuses on extracting and analyzing data from development repositories and system metrics.
+      PhD candidate at CESAR School researching data-driven strategies to evaluate and improve the effectiveness of corporate computing training. His research focuses on extracting and analyzing dark data from development repositories and system metrics.
     </td>
   </tr>
 
