@@ -17,22 +17,24 @@ Welcome to the official repository of **BRIDGE-LAB**, an interdisciplinary resea
 
 ## 🧠 Who We Are
 
-BRIDGE-LAB brings together researchers, professionals, and students working at the intersection of:
 
-- Human-centered Software Engineering  
-- Corporate Training and Computing Education  
-- Responsible Artificial Intelligence
-- AI use in Software Engineering
-- Accessibility and Inclusion for Neurodivergent Individuals  
+BRIDGE-LAB brings together researchers and graduate students working at the intersection of: Human-centered Software Engineering, Corporate Computing Education, Future of Work (with AI) and Accessibility and Neurodivergent Inclusion. We aim to generate practical, evidence-based insights to foster better tools, teams, and technologies across academia and industry.
 
-Our mission is to generate practical, evidence-based insights that empower developers, educators, and organizations to build better tools, teams, and technologies.
+## 🔬 Research Areas
 
+- **Human-centered Software Engineering**: We study how developers interact with tools, teams, and processes, focusing on productivity, usability, and well-being.
+
+- **Corporate Computing Education**: We evaluate and design training programs to improve how companies prepare and develop their technical teams.
+
+- **Future of Work (with AI)**: We investigate how AI is reshaping work environments, roles, and decision-making in the software industry.
+
+- **Accessibility and Neurodivergent Inclusion**: We explore how technology can be made more inclusive, focusing on participatory design and accessibility for neurodivergent professionals.
 ---
 
 ### 👥 Researchers
 
 <table>
-  <tr>
+  <tr> ## Leader
     <td width="120"><img src="fotos/danilo.png" width="100" /></td>
     <td>
       <strong>Danilo Monteiro Ribeiro</strong> – <em>Lead Researcher</em>  
@@ -40,77 +42,111 @@ Our mission is to generate practical, evidence-based insights that empower devel
       Research Fellow at ZUP Innovation and Professor at CESAR School. Leads applied research on AI-powered developer tools and collaborates with HR to foster learning and well-being through data. Conducts applied research to create practical, evidence-based models for corporate computing education.  
       His work focuses on human-centered software engineering, corporate computing education, responsible AI, and accessibility for neurodivergent individuals.
     </td>
-  </tr>
-
+  </table>
+  
+👨‍🎓 PhD Candidates
+<table>
   <tr>
-    <td><img src="fotos/antonio.png" width="100" /></td>
+    <td width="120"><img src="fotos/antonio.png" width="100" /></td>
     <td>
-      <strong>Antonio Oliveira</strong> – <em>PhD Researcher</em>  
+      <strong>Antonio Oliveira</strong>  
       [<a href="https://linkedin.com/in/aaspo">LinkedIn</a>]<br>
-      QA Engineer at Software Mind, working with global stakeholders to implement validation strategies within agile environments.  
-      PhD candidate at CESAR School researching data-driven strategies to evaluate and improve the effectiveness of corporate computing training. His research focuses on extracting and analyzing dark data from development repositories and system metrics.
+      QA Engineer at Software Mind. PhD candidate at CESAR School researching data-driven strategies for evaluating corporate computing education using system artifacts and metrics.
     </td>
   </tr>
 
   <tr>
     <td><img src="fotos/marcelo.png" width="100" /></td>
     <td>
-      <strong>Marcelo Franco</strong> – <em>PhD Researcher</em><br>
-      Cognitive psychologist and neuropsychologist. COO at Specialisterne and senior researcher at Dell’s LEAD Center. Professor in Human–Computer Interaction, accessibility, and applied neuroscience.  
-      His PhD research at CESAR School explores participatory design frameworks aligned with neuro-inclusive software development.
+      <strong>Marcelo Franco</strong><br>
+      COO at Specialisterne and senior researcher at Dell’s LEAD Center. PhD candidate researching participatory design and accessibility for neurodivergent users in HCI.
     </td>
   </tr>
 
   <tr>
-    <td><img src="fotos/lidiane.png" width="100" /></td>
+    <td><img src="fotos/gilberto.jpg" width="100" /></td>
     <td>
-      <strong>Lidiane Gomes</strong> – <em>MSc Researcher</em>  
-      [<a href="https://www.linkedin.com/in/lidiane-gomes-47163735/">LinkedIn</a>]<br>
-      Project Manager at CMTECH, leading strategic technology initiatives with a focus on data governance, privacy frameworks, and systems for government agencies.  
-      Master's student at CESAR School studying the effectiveness of technical training in software teams and how managers evaluate developer performance after training programs.
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="fotos/rafael.png" width="100" /></td>
-    <td>
-      <strong>Rafael Corrêa Lopes</strong> – <em>MSc Researcher</em><br>
-      Lead Game Producer at Kokku. Master’s student at CESAR School researching the role, skills, and competencies of Game Producers. Brings experience in agile management, multidisciplinary team leadership, and research into production workflows.
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="fotos/rodrigo.png" width="100" /></td>
-    <td>
-      <strong>Rodrigo Siqueira</strong> – <em>MSc Researcher</em><br>
-      Software Engineer and Frontend Chapter Leader with over 10 years of experience. Leads frontend technical growth through mentoring and best practices.  
-      Master's student at CESAR School researching how corporate education impacts the performance and collaboration of software development teams.
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="fotos/breno.png" width="100" /></td>
-    <td>
-      <strong>Breno Alves</strong> – <em>MSc Researcher</em><br>
-      Software engineer and team leader at Serasa Experian. Over 10 years of experience in development and management. Master's student at CESAR School focusing on the effects of corporate training on team performance and strategic alignment.
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="fotos/emily.png" width="100" /></td>
-    <td>
-      <strong>Emily Magalhães</strong> – <em>MSc Researcher</em><br>
-      Software Development Engineer in Test at Avalara Brazil. Over a decade of experience in IT, with 7 years in automation. Holds a background in computer engineering and machine learning.  
-      Master's student in Software Engineering focused on designing and implementing scalable automated testing strategies.
+      <strong>Gilberto Hida</strong>  
+      [<a href="https://br.linkedin.com/in/gilbertohida">LinkedIn</a>]<br>
+      Data Scientist at Hospital Israelita Albert Einstein and PhD candidate at CESAR School. Researches the use of AI to support systematic studies in software engineering, especially screening and evidence extraction.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌍 Where We Are
+## 🎓 Master’s Candidates
 
-Our members are based in Brazil, connected through partnerships with:
+<table>
+  <tr>
+    <td width="120"><img src="fotos/lidiane.png" width="100" /></td>
+    <td>
+      <strong>Lidiane Gomes</strong>  
+      [<a href="https://www.linkedin.com/in/lidiane-gomes-47163735/">LinkedIn</a>]<br>
+      Project Manager at CMTECH. Researches effectiveness of technical training and how managers assess developer performance.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="fotos/rafael.png" width="100" /></td>
+    <td>
+      <strong>Rafael Corrêa Lopes</strong><br>
+      Lead Game Producer at Kokku. Investigates the role and competencies of Game Producers in the industry.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="fotos/rodrigo.png" width="100" /></td>
+    <td>
+      <strong>Rodrigo Siqueira</strong><br>
+      Frontend Chapter Leader and Software Engineer. Researches how corporate education influences collaboration and quality in dev teams.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="fotos/breno.png" width="100" /></td>
+    <td>
+      <strong>Breno Alves</strong><br>
+      Team Lead at Serasa Experian. Studies how corporate training affects software development performance.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="fotos/emily.png" width="100" /></td>
+    <td>
+      <strong>Emily Magalhães</strong><br>
+      Software Development Engineer in Test at Avalara Brazil. Focuses on test automation and reliability in the context of training.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 👨‍💻 Undergraduate Students
+
+<table>
+  <tr>
+    <td width="120"><img src="fotos/jean.jpg" width="100" /></td>
+    <td>
+      <strong>Jean Mendonça</strong>  
+      [<a href="https://www.linkedin.com/in/jean-mendonca/">LinkedIn</a>]<br>
+      Mid-level Test Engineer at Accenture with 5+ years of experience. Undergraduate student at CESAR School researching how Generative AI (GenAI) is transforming the work of test engineers.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="fotos/pedro.JPG" width="100" /></td>
+    <td>
+      <strong>Pedro Andriotti</strong>  
+      [<a href="https://www.linkedin.com/in/pedroandriotti/">LinkedIn</a>]<br>
+      Software Engineer at BR Consulting and CEO of Home Link. Undergraduate student at CESAR School researching how AI is used by interns in their first software development roles. Passionate about clean architecture, reliability, and user-centric design.
+    </td>
+  </tr>
+</table>
+</table>
+
+---
+
  
 
 ---
