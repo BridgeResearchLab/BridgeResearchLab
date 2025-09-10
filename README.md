@@ -39,8 +39,8 @@ BRIDGE-LAB brings together researchers and graduate students working at the inte
     <td>
       <strong>Danilo Monteiro Ribeiro</strong> – <em>Lead Researcher</em>  
       [<a href="https://www.linkedin.com/in/prof-danilo-monteiro/">LinkedIn</a>] • [<a href="https://github.com/dan1lo">GitHub</a>]<br>
-      Research Fellow at ZUP Innovation and Professor at CESAR School. Leads applied research on AI-powered developer tools and collaborates with HR to foster learning and well-being through data. Conducts applied research to create practical, evidence-based models for corporate computing education.  
-      His work focuses on human-centered software engineering, corporate computing education, responsible AI, and accessibility for neurodivergent individuals.
+      Research Fellow at ZUP Innovation and Professor at CESAR School. Leads applied research on AI-powered developer tools and collaborates with HR to foster learning and well-being through data. Conducts applied research to create practical, evidence-based models for corporate computing education and Future of Work in Software Engineering.  
+      His work focuses on human-centered software engineering, corporate computing education, and accessibility for neurodivergent individuals.
     </td>
   </table>
   
