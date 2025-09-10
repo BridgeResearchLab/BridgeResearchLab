@@ -51,7 +51,7 @@ BRIDGE-LAB brings together researchers and graduate students working at the inte
     <td>
       <strong>Antonio Oliveira</strong>  
       [<a href="https://linkedin.com/in/aaspo">LinkedIn</a>]<br>
-      QA Engineer at Software Mind. PhD candidate at CESAR School researching data-driven strategies for evaluating corporate computing education using system artifacts and metrics.
+     Engineer at Software Mind and PhD candidate at CESAR School. Research AI’s impact on teaching and learning in IT disciplines to design data-driven strategies in Computer Science education.
     </td>
   </tr>
 
@@ -84,6 +84,14 @@ BRIDGE-LAB brings together researchers and graduate students working at the inte
       <strong>Lidiane Gomes</strong>  
       [<a href="https://www.linkedin.com/in/lidiane-gomes-47163735/">LinkedIn</a>]<br>
       Project Manager at CMTECH. Researches effectiveness of technical training and how managers assess developer performance.
+    </td>
+  </tr>
+    <tr>
+    <td><img src="fotos/erica.jpeg" width="100" /></td>
+    <td>
+      <strong>Erika Spadetto</strong>  
+      [<a href="https://www.linkedin.com/in/ericaspadeto">LinkedIn</a>]<br>
+      Software Engineering Manager at SBF Group. Master’s student at CESAR School researching the use of artificial intelligence in software engineering management.
     </td>
   </tr>
 
