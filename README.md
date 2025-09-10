@@ -107,7 +107,7 @@ BRIDGE-LAB brings together researchers and graduate students working at the inte
     <td><img src="fotos/rodrigo.png" width="100" /></td>
     <td>
       <strong>Rodrigo Siqueira</strong><br>
-      Frontend Chapter Leader and Software Engineer. Researches how corporate education influences collaboration and quality in dev teams.
+      Frontend Chapter Leader and Software Engineer. Researching how software engineers use AI-Driven tools to learn and develop.
     </td>
   </tr>
 
